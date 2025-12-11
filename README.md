@@ -11,13 +11,17 @@ Analisis Historis: Visualisasi interaktif pergerakan harga saham dan volume perd
 🚀 Cara Menjalankan di Lokal
 
 Clone Repository ini
-
+```bash
 git clone https://github.com/itsmeandra/Prediksi-Harga-Saham-Menggunakan-Machine-Learning.git
 cd nama-repo
-
+```
 
 Install Library yang Dibutuhkan
+```bash
 pip install streamlit pandas numpy joblib scikit-learn yfinance
+```
 
+```bash
 Jalankan Aplikasi
 streamlit run app.py
+```
