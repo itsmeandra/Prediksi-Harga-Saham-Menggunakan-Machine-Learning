@@ -21,7 +21,7 @@ Install Library yang Dibutuhkan
 pip install streamlit pandas numpy joblib scikit-learn yfinance
 ```
 
-```bash
 Jalankan Aplikasi
+```bash
 streamlit run app.py
 ```
