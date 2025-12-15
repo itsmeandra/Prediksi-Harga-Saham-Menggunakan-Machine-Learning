@@ -8,6 +8,10 @@ Prediksi Harian: Memprediksi harga penutupan (Close Price) untuk hari berikutnya
 
 Analisis Historis: Visualisasi interaktif pergerakan harga saham dan volume perdagangan menggunakan dataset historis lokal.
 
+🖥️ UI Streamlit
+<img width="1910" height="915" alt="1765773729049" src="https://github.com/user-attachments/assets/d03fdf4e-1842-4d92-a4df-3674f6c51c8b" />
+<img width="1910" height="915" alt="1765773815294" src="https://github.com/user-attachments/assets/46ca5eb7-82a6-487d-9fb3-66c6db09ffa2" />
+
 🚀 Cara Menjalankan di Lokal
 
 Clone Repository ini
