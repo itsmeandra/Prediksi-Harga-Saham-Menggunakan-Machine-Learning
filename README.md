@@ -1,11 +1,10 @@
 Aplikasi Prediksi Harga Saham Berbasis Streamlit
 
-Aplikasi berbasis web yang dibangun dengan Streamlit untuk menganalisis dan memprediksi harga saham menggunakan algoritma Machine Learning Support Vector Regression (SVR).
+Aplikasi ini untuk menganalisis dan memprediksi harga saham menggunakan algoritma Machine Learning Support Vector Machine (SVM).
 
 🌟 Fitur Utama
 
 Prediksi Harian: Memprediksi harga penutupan (Close Price) untuk hari berikutnya berdasarkan input User (Open, High, Low, Volume).
-
 Analisis Historis: Visualisasi interaktif pergerakan harga saham dan volume perdagangan menggunakan dataset historis lokal.
 
 🖥️ UI Streamlit
